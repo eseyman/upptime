@@ -4,7 +4,7 @@
     "url": "https://conferences.mongueurs.net/ye2003/",
     "icon": "https://favicons.githubusercontent.com/conferences.mongueurs.net",
     "slug": "yapc-europe-2003",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1710,
     "timeMonth": 1453,
     "timeYear": 1453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   }
 ]
